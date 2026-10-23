@@ -1,0 +1,23 @@
+# Dependances Node.js
+node_modules/
+
+# Rapports de couverture Jest
+coverage/
+.nyc_output/
+
+# Journaux
+*.log
+
+# Variables d'environnement locales
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Fichiers du systeme et des editeurs
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+*.swp
+*.swo
